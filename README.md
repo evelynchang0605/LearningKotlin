@@ -1,6 +1,6 @@
 # LearningKotlin
-CityTemp/n
-CountStep/n
-CompareNum/n
-emailTest/n
-test-> function with plus/subtract//multiplied/divided
+- CityTemp
+- CountStep
+- CompareNum
+- emailTest
+- test-> function with plus/subtract//multiplied/divided
