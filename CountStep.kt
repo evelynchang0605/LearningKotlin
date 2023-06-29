@@ -11,3 +11,6 @@ fun pedometerStepsToCalories(numberOfSteps: Int): Double {
     val totalCaloriesBurned = numberOfSteps * caloriesBurnedForEachStep
     return totalCaloriesBurned
 }
+/*Print result
+Walking 4000 steps burns 160.0 calories
+*/
