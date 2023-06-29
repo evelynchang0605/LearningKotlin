@@ -44,3 +44,10 @@ fun divided(num1: Int, num2: Int): Double {
 
     return dividedResult
 }
+
+/* Print result
+10 + 5 = 15
+8 - 10 = -2
+10 * 5 = 50
+10 / 8 = 1.25
+*/
