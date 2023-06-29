@@ -9,3 +9,9 @@ fun main() {
 fun compareTime(timeSpentToday: Int, timeSpentYesterday: Int): Boolean {
     return timeSpentToday > timeSpentYesterday
 }
+
+/* Print result
+Have I spent more time using my phone today: true
+Have I spent more time using my phone today: false
+Have I spent more time using my phone today: false
+*/
